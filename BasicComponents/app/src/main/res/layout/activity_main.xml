@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ConstraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pokemon"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:visibility="visible"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:background="#FFFFFF"
+        android:text="Escolha Pokemon 1:"
+        android:textColor="#000000"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        android:typeface="serif"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="156dp" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="303dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:background="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView8" />/>
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:background="#FFFFFF"
+        android:text="Escolha Pokemon 2:"
+        android:textColor="#000000"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        android:typeface="serif"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spinner" />
+
+    <Spinner
+        android:id="@+id/spinner2"
+        android:layout_width="303dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:background="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView7" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:background="#FFFFFF"
+        android:text="Qual a sua aposta?"
+        android:textColor="#000000"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        android:typeface="serif"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spinner2" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="32dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView5">
+
+        <RadioGroup
+            android:id="@+id/radioGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="#FFFFFF">
+
+            <RadioButton
+                android:id="@+id/rbtime1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Pokemon 1 vence"
+                android:textSize="23sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="Pokemon 1 vence" />
+
+            <RadioButton
+                android:id="@+id/rbempate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Empate"
+                android:textSize="23sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="Empate" />
+
+            <RadioButton
+                android:id="@+id/rbtime2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Pokemon 2 vence"
+                android:textSize="23sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="Pokemon 2 vence" />
+        </RadioGroup>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="32dp"
+        android:layout_weight="1"
+        android:onClick="jogar"
+        android:text="Jogar"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        android:typeface="serif"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="63dp"
+        android:layout_height="65dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="8dp"
+        android:layout_weight="1"
+        android:onClick="playSom"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        android:typeface="serif"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/button7"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+        android:background="@drawable/ic_music_24"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
