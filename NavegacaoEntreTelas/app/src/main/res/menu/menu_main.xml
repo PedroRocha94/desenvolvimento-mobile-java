@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ufc.navegacaoentretelas.MainActivity">
+    <item
+        android:id="@+id/add"
+        android:orderInCategory="100"
+        android:title="Adicionar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/edit"
+        android:orderInCategory="100"
+        android:title="Editar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/delete"
+        android:orderInCategory="100"
+        android:title="Apagar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sair"
+        android:orderInCategory="100"
+        android:title="Sair"
+        app:showAsAction="never" />
+</menu>
