@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "659798860307",
+    "project_id": "universichat-1be07",
+    "storage_bucket": "universichat-1be07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659798860307:android:be88f5acadc4ce9343d5e6",
+        "android_client_info": {
+          "package_name": "com.ufc.UniversiChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659798860307-bd9ghcbnan03deqbg9dt0257dftmlhld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ufc.UniversiChat",
+            "certificate_hash": "cd3d0acc5214bd4ac9c43966a202870ee83dbde0"
+          }
+        },
+        {
+          "client_id": "659798860307-u7mekkfuoam2ncogpa0c4ij1470kvpsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ytLzANw55zlmYIU_n2RLxV4D0EIMiuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659798860307-u7mekkfuoam2ncogpa0c4ij1470kvpsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projetos/Nova pasta/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/activity_cadastro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projetos/Nova pasta/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/activity_cadastro_grupo.xml" value="0.17831813576494426" />
+        <entry key="..\:/Projetos/Nova pasta/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/activity_configuracoes.xml" value="0.17831813576494426" />
+        <entry key="..\:/Projetos/Nova pasta/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/activity_grupo.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projetos/Nova pasta/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/activity_informacoes.xml" value="0.19322916666666667" />
+        <entry key="..\:/Projetos/Nova pasta/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/activity_login.xml" value="0.5" />
+        <entry key="..\:/Projetos/Nova pasta/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projetos/Nova pasta/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/adapter_contatos.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projetos/Nova pasta/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/adapter_topico.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projetos/Nova pasta/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/content_cadastro_grupo.xml" value="0.17831813576494426" />
+        <entry key="..\:/Projetos/Nova pasta/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/content_grupo.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projetos/Nova pasta/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/divisor.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projetos/Nova pasta/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/fragment_contatos.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projetos/Nova pasta/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/fragment_conversas.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projetos/Nova pasta/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/fragment_tarefas.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projetos/Nova pasta/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/toolbar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projetos/Nova pasta/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/menu/menu_chat.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projetos/Nova pasta/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/menu/menu_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/drawable/bg_balao.xml" value="0.2203125" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/drawable/edit_text_descricao.xml" value="0.2203125" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/drawable/fundo_msg_chat.xml" value="0.2203125" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/drawable/ic_camera_cinza_24.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/drawable/ic_editar.xml" value="0.1640625" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/drawable/ic_enviar_branco_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/drawable/ic_pesquisa_branco.xml" value="0.1828125" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/drawable/ic_photo_cinza_24.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/drawable/ic_seta_direita_black_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/activity_cadastro.xml" value="0.25" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/activity_cadastro_grupo.xml" value="0.22" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/activity_chat.xml" value="0.33" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/activity_configuracoes.xml" value="0.22" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/activity_grupo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/activity_informacoes.xml" value="0.25" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/activity_login2.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/activity_maps.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/adapter_contatos.xml" value="0.33" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/adapter_grupo_selecionado.xml" value="0.22" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/adapter_mensagem_destinatario.xml" value="0.25" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/adapter_mensagem_remetente.xml" value="0.25" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/adapter_topico.xml" value="0.33" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/content_cadastro_grupo.xml" value="0.33" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/content_chat.xml" value="0.25" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/content_grupo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/divisor.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/fragment_chat.xml" value="0.1375" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/fragment_contatos.xml" value="0.25" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/fragment_first.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/fragment_informacoes.xml" value="0.1375" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/fragment_second.xml" value="0.13854166666666667" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/fragment_tarefas.xml" value="0.33" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/teste.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/layout/toolbar.xml" value="0.14" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/menu/menu_chat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/menu/menu_chat_tarefa.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/menu/menu_info.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/menu/menu_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Aglailson Santiago/Documents/Desenvolvimento-Dispositivos-Moveis-2021.2/TaskManagerProjetoFinal/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19479166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.20416666666666666" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
